@@ -1,4 +1,3 @@
-codemotion
-==========
+hello git
 
-codemotion
+Тестирование идет своим ходом
